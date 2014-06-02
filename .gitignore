@@ -1,0 +1,10 @@
+#过滤文件
+*.pyc
+.*.swp
+*~
+db.sqlite3
+
+#过滤文件夹
+media/*
+!*/.gitkeep
+*/migrations/
